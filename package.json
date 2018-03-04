@@ -1,0 +1,15 @@
+{
+  "name": "pa11ycrawler",
+  "version": "1.0.0",
+  "description": "Runs pa11y, follows links, logs results",
+  "main": "pa11yCrawler.js",
+  "scripts": {
+    "test": "node pa11yCrawler.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "pa11y": "^5.0.1"
+  }
+}
