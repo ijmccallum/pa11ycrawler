@@ -13,3 +13,7 @@ For now - clone the repo. In the future, maybe, npm install might become a thing
 * [ ] Split out the crawling part to generate a list of pages (essentially a sitemap!).
 * [ ] run pa11y tests on pages in parallel.
 * [ ] set a limit to the number of page tests that can run in parallel.
+* [ ] cron job!
+* [ ] log consolidation (they're quite verbose, any way to tighten up the data?)
+* [ ] actuall logging packages - probably a good idea to leverage work by others here
+* [ ] Graphics! Figure out what would be good to know (thinking from a business perspective)
